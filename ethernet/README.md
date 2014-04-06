@@ -29,3 +29,22 @@ http://www.chipfind.net/datasheet/amd/am79c971.htm
 
 Related code:
 * dev_am79c971.c; dev_am79c971.h
+
+
+Am79C970A.pdf
+------------
+
+```
+Am79C970A PCnet™-PCI II Single-Chip Full-Duplex Ethernet Controller for PCI Local Bus Product
+Publication# 19436
+Rev: E
+Amendment/0
+Issue Date:  June 2000
+```
+
+http://www.chipfind.net/datasheet/amd/am79c970a.htm
+
+IOS names it "AMD Presidio" or "AmdP2"
+
+Related code:
+* dev_am79c971.c; dev_am79c971.h (compatible)
