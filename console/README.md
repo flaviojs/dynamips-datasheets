@@ -9,7 +9,7 @@ console
 >
 > http://www.proprofs.com/mwiki/index.php/Ultimate_Cisco_CCNA_INTRO_Glossary_&_Acr
 
-https://www.google.pt/search?q=define+console+port
+https://www.google.com/search?q=define+console+port
 
 
 NS16552V.pdf
